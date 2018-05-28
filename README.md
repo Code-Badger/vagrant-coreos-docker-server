@@ -8,11 +8,11 @@ A Vagrant provision for Docker to run multiple app containers on CoreOS Server. 
 
 ## How to use
 
-'''
+```
 git clone url
 cd vagrant-coreos-docker-server
 vagrant up
-'''
+```
 
 if you want manage docker containers manually, see below.
 
