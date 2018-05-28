@@ -14,7 +14,7 @@ cd vagrant-coreos-docker-server
 vagrant up
 ```
 
-if you want manage docker containers manually, see below.
+To SSH login and manually config containers.
 
 ```
 cd vagrant-coreos-docker-demo
