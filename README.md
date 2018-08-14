@@ -1,6 +1,6 @@
 # Vagrant CoreOS Docker Server
 
-Creates virtual machine and spins up app containers with single command
+Creates CoreOS server on Virtual Box VM and spins up app containers in single command.
 
 ## Installed Applications
 * Redmine: Project Management Web App
