@@ -2,6 +2,16 @@
 
 A Vagrant provision for Docker to run multiple app containers on CoreOS Server. App includes, Redmine, ResourceSpace, Gitbucket, Etherpad, EtherCald and Manet.
 
+## Installed Applications
+* Redmine: Project Management Web App
+* ResourceSpace: Digital Asset Management
+* Gitbucket: Git Server
+* Etherpad: Real-time Wordpad
+* EtherCalc: Real-time Spreadsheets
+* manet: Web Screenshot Server
+* MySQL: Relational Database
+* Redis: NoSQL
+
 ### System Requirements
 
 * Vagrant 1.8.1 or later with NFS support
@@ -25,17 +35,6 @@ docker-compose stop
 docker-compose up -d
 docker-compose logs
 ```
-
-## Installed Applications
-* Redmine: Project Management Web App
-* ResourceSpace: Digital Asset Management
-* Gitbucket: Git Server
-* Etherpad: Real-time Wordpad
-* EtherCalc: Real-time Spreadsheets
-* manet: Web Screenshot Server
-* MySQL: Relational Database
-* Redis: NoSQL
-
 
 ## Default Passwords
 
