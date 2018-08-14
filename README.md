@@ -1,6 +1,6 @@
 # Vagrant CoreOS Docker Server
 
-A Vagrant provision for Docker to run multiple app containers on CoreOS Server.
+Creates virtual machine and spins up app containers with single command
 
 ## Installed Applications
 * Redmine: Project Management Web App
