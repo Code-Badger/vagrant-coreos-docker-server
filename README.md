@@ -27,13 +27,13 @@ docker-compose logs
 ```
 
 ## Installed Applications
-* Redmine: ITS
-* ResourceSpace: DAM
-* Gitbucket: git server
-* Etherpad: real-time wordpad
-* EtherCalc: real-time spreadsheets
-* manet: web screenshot server
-* MySQL: RDB
+* Redmine: Project Management Web App
+* ResourceSpace: Digital Asset Management
+* Gitbucket: Git Server
+* Etherpad: Real-time Wordpad
+* EtherCalc: Real-time Spreadsheets
+* manet: Web Screenshot Server
+* MySQL: Relational Database
 * Redis: NoSQL
 
 
