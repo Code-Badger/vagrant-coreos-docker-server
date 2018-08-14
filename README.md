@@ -1,6 +1,6 @@
 # Vagrant CoreOS Docker Server
 
-A Vagrant provision for Docker to run multiple app containers on CoreOS Server. App includes, Redmine, ResourceSpace, Gitbucket, Etherpad, EtherCald and Manet.
+A Vagrant provision for Docker to run multiple app containers on CoreOS Server.
 
 ## Installed Applications
 * Redmine: Project Management Web App
